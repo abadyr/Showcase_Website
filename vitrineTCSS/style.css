@@ -75,15 +75,9 @@ nav li{
     }
 nav li:hover, nav figure:hover{
     background-color: #4d2556;
-/* padding: 0.2em 0.5em; color: #28132c; */
     }
-    /* .menu-icon{
-        flex: 0 1 auto;
-        margin: 0em 0.2em;
-        width: 46px;
-        height:46px;
-    } */
 /* Menu END */
+
 .grid-container {
     display: grid;
     grid-template-columns: 1fr 4fr 1fr;
